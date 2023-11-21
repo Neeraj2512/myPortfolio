@@ -172,8 +172,10 @@ nav i{
 
 .rght-two p span{
   font-size: 1.5vw;
-  color: rgb(52, 78, 192);
+  color: rgb(0, 0, 0);
   width: 80%;
+  font-weight: bolder;
+
 }
 
 .three{
