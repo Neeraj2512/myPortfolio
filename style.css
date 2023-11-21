@@ -250,13 +250,14 @@ nav i{
   transition: all cubic-bezier(0.19, 1, 0.22, 1)0.5s;
   filter: drop-shadow(2px 15px 8px #000);
 }
+.three h3{
+  /* color: #fff; */
+  margin-top: 25vh;
 
-/* .lemon{
-  top: -30%;
-  position: absolute;
-  left: 50%;
-  width: 25vw;
-  transform: translate(-50%, 0%);
-  transition: all cubic-bezier(0.19, 1, 0.22, 1)0.5s;
-  filter: drop-shadow(2px 15px 8px #000);
-} */
+  font-size: 5vw;
+  text-shadow: 7px 10px 15px #050202;
+  align-items: center;
+  justify-content: center;
+}
+
+
